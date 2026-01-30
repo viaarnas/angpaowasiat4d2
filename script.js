@@ -50,7 +50,7 @@ function renderPrize() {
           <div class="prize-desc">
             Angpao Imlek <strong>1 JUTA</strong> langsung ditransfer ke rekening.
           </div>
-          <div class="prize-chance">Peluang: </div>
+          <div class="prize-chance">Peluang: 5%</div>
         </div>
         <div class="prize-card">
           <div class="prize-icon">🧧💰</div>
@@ -58,7 +58,7 @@ function renderPrize() {
           <div class="prize-desc">
             Angpao Imlek <strong>500 RIBU</strong> langsung ditransfer ke rekening.
           </div>
-          <div class="prize-chance">Peluang: </div>
+          <div class="prize-chance">Peluang: 10%</div>
         </div>
         <div class="prize-card">
           <div class="prize-icon">🧧💰</div>
@@ -66,7 +66,7 @@ function renderPrize() {
           <div class="prize-desc">
             Angpao Imlek <strong>250 RIBU</strong> langsung ditransfer ke rekening.
           </div>
-          <div class="prize-chance">Peluang: </div>
+          <div class="prize-chance">Peluang: 15%</div>
         </div>
         <div class="prize-card">
           <div class="prize-icon">🧧💰</div>
@@ -74,7 +74,7 @@ function renderPrize() {
           <div class="prize-desc">
             Angpao Imlek <strong>100 RIBU</strong> langsung ditransfer ke rekening.
           </div>
-          <div class="prize-chance">Peluang: </div>
+          <div class="prize-chance">Peluang: 20%</div>
         </div>
         <div class="prize-card">
           <div class="prize-icon">🧧💰</div>
@@ -82,7 +82,7 @@ function renderPrize() {
           <div class="prize-desc">
             Dapatkan tambahan saldo edisi imlek <strong>20%</strong> setelah melakukan deposit.
           </div>
-          <div class="prize-chance">Peluang: </div>
+          <div class="prize-chance">Peluang: 50%</div>
         </div>
   `;
 }
